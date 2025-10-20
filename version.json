@@ -1,10 +1,6 @@
 {
   "version": "2.1.2",
   "release_date": "2025-10-20",
-  "installer_url": "https://github.com/goitpiotr/CUBE-CNC-Assistant/releases/download/v2.1.1/CUBE-CNC-assistant-setup.exe",
-  "changelog": [
-    "Test: sztucznie wysoka wersja dla testu automatycznych aktualizacji"
-  ]
-
+  "changelog": [],
+  "installer_url": "https://github.com/goitpiotr/CUBE-CNC-Assistant-Releases/releases/download/v2.1.2/CUBE-CNC-assistant-setup.exe"
 }
-
