@@ -1,9 +1,9 @@
 {
-  "version": "2.1.14",
+  "version": "2.1.15",
   "release_date": "2025-12-03",
   "changelog": [
     "### 🔧 Inne zmiany",
     "- release_gui: mirror_release - more logging and simple retry for create/upload; update_version_inc atomic write (no backup)"
   ],
-  "installer_url": "https://github.com/goitpiotr/CUBE-CNC-Assistant-Releases/releases/download/v2.1.14/CUBE-CNC-assistant-setup.exe"
+  "installer_url": "https://github.com/goitpiotr/CUBE-CNC-Assistant-Releases/releases/download/v2.1.15/CUBE-CNC-assistant-setup.exe"
 }
